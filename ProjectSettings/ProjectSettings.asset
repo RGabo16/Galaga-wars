@@ -4,7 +4,7 @@
 PlayerSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 24
-  productGUID: 8b3c4de774813624b8f670c50816ba64
+  productGUID: a334be42743a6e7429ceeafda8e64cec
   AndroidProfiler: 0
   AndroidFilterTouchesWhenObscured: 0
   AndroidEnableSustainedPerformanceMode: 0
@@ -13,7 +13,7 @@ PlayerSettings:
   useOnDemandResources: 0
   accelerometerFrequency: 60
   companyName: DefaultCompany
-  productName: My project
+  productName: Galaga Wars
   defaultCursor: {fileID: 0}
   cursorHotspot: {x: 0, y: 0}
   m_SplashScreenBackgroundColor: {r: 0.13725491, g: 0.12156863, b: 0.1254902, a: 1}
@@ -771,11 +771,11 @@ PlayerSettings:
   apiCompatibilityLevel: 6
   activeInputHandler: 0
   windowsGamepadBackendHint: 0
-  cloudProjectId: 77b7b14e-9e39-46a2-8149-8c5ee6371eb2
+  cloudProjectId: a207336c-f131-4ebd-8d20-80dea1872f9f
   framebufferDepthMemorylessMode: 0
   qualitySettingsNames: []
-  projectName: My project
-  organizationId: rgrim16
+  projectName: Galaga Wars
+  organizationId: unity_92bfef2747494bbfa394
   cloudEnabled: 0
   legacyClampBlendShapeWeights: 0
   playerDataPath: 

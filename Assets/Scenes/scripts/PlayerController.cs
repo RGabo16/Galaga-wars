@@ -2,7 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class PlayerCOntroller : MonoBehaviour
+public class PlayerController : MonoBehaviour
 {
     public int speed =3;
     public float Horiz_input;
